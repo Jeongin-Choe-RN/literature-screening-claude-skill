@@ -1,0 +1,30 @@
+{
+  "notice": "Fictional learning material only. Not published studies or real search results. Student and AI judgments are intentionally blank.",
+  "question": "What evidence is available on the relationship between sleep and stress among undergraduate nursing students?",
+  "scope": "Five fictional records for workflow practice, not a completed real literature search.",
+  "criteria": [
+    {"id": "C01", "kind": "include", "text": "The report concerns undergraduate nursing students, or reports their results separately within a mixed sample."},
+    {"id": "C02", "kind": "include", "text": "The report provides evidence about the relationship between sleep and stress."}
+  ],
+  "records": [
+    {"record_id": "DEMO01", "title": "Fictional practice: Sleep quality and stress in undergraduate nursing students", "year": "2025", "abstract": "This fictional study included 120 undergraduate nursing students. Sleep quality and perceived stress were measured and their association was examined.", "source_file": "practice.json"},
+    {"record_id": "DEMO02", "title": "Fictional practice: Sleep and stress among employed nurses", "year": "2025", "abstract": "All 80 participants were employed registered nurses; no nursing students participated. The study examined the relationship between sleep duration and stress.", "source_file": "practice.json"},
+    {"record_id": "DEMO03", "title": "Fictional practice: Wellbeing in nursing training", "year": "2024", "abstract": "", "source_file": "practice.json"},
+    {"record_id": "DEMO04", "title": "Fictional practice: Sleep and stress in health students", "year": "2025", "abstract": "This fictional study examined sleep and stress among health students. The abstract does not describe the degree programs or separate subgroup results.", "source_file": "practice.json"},
+    {"record_id": "DEMO05", "title": "Fictional practice: Sleep quality and stress in undergraduate nursing students", "year": "2025", "abstract": "This fictional study included 120 undergraduate nursing students. Sleep quality and perceived stress were measured and their association was examined.", "source_file": "practice.json"}
+  ],
+  "fictional_fulltexts": {
+    "DEMO01": [
+      {"page": 1, "text": "FICTIONAL PRACTICE — NOT A REAL PAPER. Sleep quality and stress in undergraduate nursing students. Methods: All 120 participants were undergraduate nursing students. Sleep quality and perceived stress were assessed with questionnaires."},
+      {"page": 2, "text": "FICTIONAL PRACTICE. Results: Higher perceived stress was associated with poorer sleep quality. Table 1 presents the two measured constructs. This is only a teaching example, not a real study result."}
+    ],
+    "DEMO03": [
+      {"page": 1, "text": "FICTIONAL PRACTICE — NOT A REAL PAPER. Wellbeing in nursing training. This report describes a planned future survey of undergraduate nursing students. Data collection has not started."},
+      {"page": 2, "text": "FICTIONAL PRACTICE. The proposed survey covers sleep and stress. No findings on their relationship are reported because there are no collected data."}
+    ],
+    "DEMO04": [
+      {"page": 1, "text": "FICTIONAL PRACTICE — NOT A REAL PAPER. Sleep and stress in health students. The sample combined undergraduate nursing, medicine, and pharmacy students."},
+      {"page": 2, "text": "FICTIONAL PRACTICE. Results on the relationship between sleep and stress are reported only for the combined sample. Results for undergraduate nursing students are not reported separately."}
+    ]
+  }
+}
